@@ -4,4 +4,4 @@ This file runs on a Raspberry pi 3b remotely through Jetbeans Pycharm.
 
 The code has various hardware component modules like gps, servo motors and face and object detection of multiple objects with the help of deep learning.
 
-for more details contact me at rangerguy97@gmail.com
+for more details contact me at raisourav945@gmail.com
